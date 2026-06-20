@@ -152,4 +152,14 @@ Future Improvements
 Visualisation
 
 <img width="983" height="525" alt="category revenue by share" src="https://github.com/user-attachments/assets/330265e8-57ba-4e97-bc59-ac25f023d68c" />
+<img width="968" height="525" alt="Revenue by category" src="https://github.com/user-attachments/assets/cc6d9333-9229-4540-8162-1bf7e3069013" />
+<img width="983" height="525" alt="revenue by payment" src="https://github.com/user-attachments/assets/7ad722e1-8194-41c5-8c6e-5cf51337ef2d" />
+<img width="983" height="525" alt="monthly trend 2022" src="https://github.com/user-attachments/assets/f5aeb1d3-1a3c-4eb4-b997-47a93cd84cab" />
+<img width="983" height="525" alt="monthley trend 2023" src="https://github.com/user-attachments/assets/3b0d7f25-e8d3-465e-82e0-e027f34be6fe" />
+<img width="983" height="525" alt="price distribution" src="https://github.com/user-attachments/assets/c17c0294-ad59-45ac-9a18-71c61eda34b2" />
+<img width="983" height="525" alt="price vs revenue" src="https://github.com/user-attachments/assets/8f278926-ec44-46cc-9c0e-ad8a4fe906e5" />
+<img width="983" height="525" alt="top selling items" src="https://github.com/user-attachments/assets/2b9133d0-4f43-49a0-be76-4064071520bb" />
+
+
+
 
